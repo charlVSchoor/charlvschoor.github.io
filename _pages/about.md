@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Pretoria</a>, <a href='#'>UP-Macrolab</a>
+subtitle: <a href='https://www.up.ac.za/economics'>University of Pretoria</a>, <a href='#'>UP-Macrolab</a>
 
 profile:
   align: right
